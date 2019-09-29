@@ -1,1 +1,1 @@
-# docker-gcs-git-crypt
+# Docker image with gcloud
